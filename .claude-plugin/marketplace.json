@@ -1,0 +1,15 @@
+{
+  "name": "pr-crucible",
+  "owner": {
+    "name": "Lev Velykoivanenko"
+  },
+  "plugins": [
+    {
+      "name": "pr-crucible",
+      "source": "./",
+      "description": "Staged, evidence-backed, adversarial PR review: analyze through lenses, refute findings with real before/after evidence, render a report. Repo-, language-, and framework-agnostic.",
+      "version": "0.1.0",
+      "license": "GPL-3.0-or-later"
+    }
+  ]
+}

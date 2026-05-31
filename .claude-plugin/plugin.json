@@ -1,0 +1,10 @@
+{
+  "name": "pr-crucible",
+  "version": "0.1.0",
+  "description": "Staged, evidence-backed, adversarial PR review: analyze through lenses, refute findings with real before/after evidence, render a report. Repo-, language-, and framework-agnostic.",
+  "author": {
+    "name": "Lev Velykoivanenko"
+  },
+  "license": "GPL-3.0-or-later",
+  "keywords": ["pr-review", "code-review", "redteam", "verification", "regression"]
+}
