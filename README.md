@@ -24,7 +24,16 @@ api-contract auto-trigger from the changed paths (and are user-toggleable).
 
 ## Install
 
-This repo is also a Claude Code plugin marketplace. Add it, then install:
+This repo is also a Claude Code plugin marketplace. Add it, then install.
+
+**From the terminal (CLI):**
+
+```bash
+claude plugin marketplace add AbysmalBiscuit/pr-crucible
+claude plugin install pr-crucible@pr-crucible
+```
+
+**From inside Claude Code (interactive):**
 
 ```
 /plugin marketplace add AbysmalBiscuit/pr-crucible
